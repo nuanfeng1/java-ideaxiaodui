@@ -5,7 +5,9 @@ package day01;
      浮点数：float\double
      字符型：char
      布尔型：boolean
+     byte、short、char-->int-->long-->float-->double
  */
+
 public class one {
     public static  void main(String[] args) {
         //整形
